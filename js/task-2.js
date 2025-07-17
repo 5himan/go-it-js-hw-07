@@ -32,4 +32,4 @@ const markup = images
   .join("");
 
 gallery.insertAdjacentHTML("beforeend", markup);
-console.log(gallery);
+
